@@ -1,0 +1,15 @@
+{
+  "name": "sneakercon-api-testing",
+  "version": "1.0.0",
+  "description": "Api-Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "superagent": "3.8.2",
+    "jest": "22.4.3"
+  },
+  "author": "Benson",
+  "license": "ISC"
+}
